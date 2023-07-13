@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905447773658",
+    "firebase_url": "https://vintage-badc1.firebaseio.com",
+    "project_id": "vintage-badc1",
+    "storage_bucket": "vintage-badc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905447773658:android:8be648f5e36ea7c6585ce3",
+        "android_client_info": {
+          "package_name": "com.updatedtamizha.vintage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905447773658-fqdh895fom88fk6ja7uova52766r47vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV8gdCvYrhsADN3oSDWoVpFM_OWQwsIUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905447773658-fqdh895fom88fk6ja7uova52766r47vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
